@@ -1,5 +1,3 @@
-# 2_projeto_vue
-
 ## Project setup
 ```
 npm install
